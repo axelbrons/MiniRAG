@@ -58,5 +58,3 @@ Pour faire tourner le projet localement :
 
 * **Python** (avec les packages `langchain`, `gradio`, `pypdf`
 * **Ollama** installé et les modèles `mistral` ou `phi3:mini` téléchargés.
-
-[Lien du GitHub du projet : https://github.com/axelbrons/MiniRAG]
