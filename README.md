@@ -1,2 +1,1 @@
-# MiniRAG
-Mini projet fait en moins d'une semaine en parallèle des cours
+# Mini-RAG pour l'Analyse de CVs : L'Assistant Recruteur
